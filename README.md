@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vaishali1996-cmyk
-- 👀 I’m interested in business / data analysis.
-- 🌱 I’m currently enhancing my tech skills.
+- 👀 I’m experienced Data analyst skilled in MYSQL, Power BI, Advanced Excel and Statistics.
+- 💞️ Currently learning AI Tools like CHATGPT.
 - 💞️ I’m looking to collaborate with different work domains.
-- 📫 you can reach me at vaishali.s1996@icloud.com
+- 📫 you can reach me at shaktawatvaishali39@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i can bring quick multitasking energy to your analytics team.
 
